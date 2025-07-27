@@ -15,9 +15,9 @@ This repository contains C implementations of basic Linux command-line utilities
 
 To compile the programs, use GCC as follows:
 
-'''bash
+```bash
 gcc cp.c -o cp
 gcc mv.c -o mv
 gcc echo.c -o echo
 gcc pwd.c -o pwd
-'''
+```
